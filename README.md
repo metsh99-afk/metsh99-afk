@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Mohamed Hisham, Senior Electrical Power Engineering Student at Cairo university. 
 <!--
 **metsh99-afk/metsh99-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
